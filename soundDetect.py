@@ -31,3 +31,4 @@ except KeyboardInterrupt:
 
 
 RPi.GPIO.cleanup()
+#lalala
